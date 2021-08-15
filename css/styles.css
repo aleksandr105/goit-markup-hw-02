@@ -47,6 +47,7 @@ body {
   color: #2196f3;
 }
 .main-headline {
+  text-transform: uppercase;
   font-weight: 900;
   font-size: 44px;
   line-height: 1.36;
@@ -69,6 +70,9 @@ body {
   background-color: #1b85db;
 }
 /* -------main-styles--------- */
+.section-color {
+  background-color: #f5f4fa;
+}
 .benefits {
   text-transform: uppercase;
   font-weight: 700;
@@ -150,6 +154,20 @@ body {
   letter-spacing: 3%;
   color: #212121;
   background-color: #f5f4fa;
+}
+.button-color {
+  background-color: #2196f3;
+  color: #ffffff;
+  cursor: pointer;
+}
+.hover-color:hover,
+.hover-color:focus {
+  background-color: #2196f3;
+  color: #ffffff;
+  cursor: pointer;
+}
+.color-nav {
+  color: #2196f3;
 }
 .title-prject {
   font-weight: 700;
