@@ -149,18 +149,13 @@ body {
   color: #2196f3;
 }
 /* ------------------------------------portfolio------------------------------- */
-.button-menu {
+.hover-color {
+  background-color: #f5f4fa;
   font-weight: 500;
   font-size: 16px;
   line-height: 1.62;
   letter-spacing: 3%;
   color: #212121;
-  background-color: #f5f4fa;
-}
-.button-color {
-  background-color: #2196f3;
-  color: #ffffff;
-  cursor: pointer;
 }
 .hover-color:hover,
 .hover-color:focus {
